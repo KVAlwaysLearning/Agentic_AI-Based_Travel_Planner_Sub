@@ -6,7 +6,7 @@ from datetime import datetime, date, timedelta
 
 # Set Streamlit Page Config
 st.set_page_config(page_title="AI-Based Travel Planning Assistant", layout="wide")
-st.title("")
+st.title("AI-Based Travel Planning Assistant")
 
 # Clear State Memory Sidebar controller
 with st.sidebar:
